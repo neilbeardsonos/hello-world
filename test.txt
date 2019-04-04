@@ -1,0 +1,6 @@
+test.txt
+
+this is a test.
+this is only a test
+
+end test
